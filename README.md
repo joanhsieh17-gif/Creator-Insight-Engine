@@ -7,6 +7,9 @@ In the rapidly growing influencer marketing landscape, brands often struggle to 
 
 This project, **Creator Insight Engine**, leverages machine learning to predict the future growth of YouTube travel creators. By analyzing historical data from **Social Blade**, we generate a **"Decision Index"** to recommend creators who are currently undervalued but possess high growth momentum.
 
+> [!NOTE]
+> **Development Status**: This repository represents the **finalized and organized version** of the project. All initial data exploration, iterative model testing (CatBoost/LSTM tuning), and script refinement were conducted in a local environment to ensure a clean and structured final presentation.
+
 ##  Key Goals
 1.  **Growth Prediction**: Forecast **Subscribers** and **Views** for the upcoming month (April 2025) using time-series analysis.
 2.  **Smart Recommendation**: Provide a ranked list of creators with high potential for collaboration, moving beyond simple popularity metrics.
