@@ -59,7 +59,7 @@ We compared two major approaches to handle time-series forecasting:
 
 | Model | Historical Window | Target | R² Score | Verdict |
 |-------|-------------------|--------|----------|---------|
-| **CatBoost** | **9 Months** | **Views/Subs** | **0.7923** | **Selected** ✅ |
+| **CatBoost** | **9 Months** | **Views/Subs** | **0.7923** | **Selected** |
 | LSTM | 9 Months | Views/Subs | 0.5200 | Baseline |
 
 *Key Insight: The Gradient Boosting approach (CatBoost) proved more robust for this specific scale of monthly aggregated data compared to the recurrent neural network (LSTM).*
